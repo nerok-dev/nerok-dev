@@ -1,4 +1,20 @@
-## Hi there 👋
+Hi guys, I'm **Nerok**. I am a low level systems developer and game developer from Texas, United States. 
+I am currently the Lead Developer & Director at Team Fizz a indie game dev studio.
+
+### More About Me:
+- 🌱 &nbsp; I’m currently learning C.
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
+- 📚 &nbsp; When I am free, I play video games with friends.
+
+### Languages and Tools:
+- Languages: C, C++, C#, Python, Lua, and JavaScript.
+- Libraries: OpenGL, Vulkan, DirectX 11 - 12, and pytorch.
+- Tools: Godot Engine, NextJS, Node JS, and CMake.   
+
+### Github Stats
+
+![Nerok's Github Stats](https://github-readme-stats.vercel.app/api?username=nerok-dev&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=c&text_color=a4aacb&icon_color=007ec6)
+
 
 <!--
 **nerok-dev/nerok-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
